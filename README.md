@@ -15,6 +15,10 @@ Using these techniques with an off-the-shelf VIO/SLAM system, large aerial forma
     <a href="https://www.youtube.com/watch?v=il0UJCyiAzY"><img src=".github/aclswarm_thumb.png" alt="ACL swarm video" /></a>
 </p>
 
+## Paper
+If this pipeline is useful, please cite:
+P. Lusk, X. Cai, S. Wadhwania, A. Paris, K. Fathian, J. How, [A Distributed Pipeline for Scalable, Deconflicted Formation Flying](https://arxiv.org/abs/2003.01851), arXiv:2003.01851.
+
 ## Getting Started
 
 The `aclswarm` pipeline leverages ROS and the MIT ACL [custom autopilot stack](https://gitlab.com/mit-acl/fsw/snap-stack). This stack targets the [Qualcomm Snapdragon Flight](https://developer.qualcomm.com/hardware/qualcomm-flight-pro) and supports software-in-the-loop (SIL) simulation.
