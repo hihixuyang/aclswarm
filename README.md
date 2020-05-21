@@ -17,7 +17,8 @@ Using these techniques with an off-the-shelf VIO/SLAM system, large aerial forma
 
 ## Paper
 If this pipeline is useful, please cite:
-P. Lusk, X. Cai, S. Wadhwania, A. Paris, K. Fathian, J. How, [A Distributed Pipeline for Scalable, Deconflicted Formation Flying](https://arxiv.org/abs/2003.01851), arXiv:2003.01851.
+
+P. Lusk, X. Cai, S. Wadhwania, A. Paris, K. Fathian, J. How, "[A Distributed Pipeline for Scalable, Deconflicted Formation Flying](https://arxiv.org/abs/2003.01851)", arXiv:2003.01851.
 
 ## Getting Started
 
